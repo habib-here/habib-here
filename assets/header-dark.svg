@@ -1,0 +1,26 @@
+<svg width="880" height="220" viewBox="0 0 880 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="HABIB — security, systems, networks">
+  <defs>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#5a5a5a" opacity="0.45"/>
+    </pattern>
+  </defs>
+
+  <!-- dotted field (transparent base, mid-gray dots work on github dark bg) -->
+  <rect width="880" height="220" fill="url(#dots)"/>
+
+  <!-- solid panel -->
+  <rect x="18" y="18" width="844" height="184" fill="#0a0a0a" stroke="#e6e6e6" stroke-width="2"/>
+
+  <!-- corner meta -->
+  <text x="40" y="50" font-family="'Courier New', Courier, monospace" font-size="12" letter-spacing="3" fill="#8a8a8a">[ 00 ] HABIB-HERE</text>
+  <text x="840" y="50" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="12" letter-spacing="3" fill="#8a8a8a">EST. 2022</text>
+
+  <!-- wordmark -->
+  <text x="440" y="124" text-anchor="middle" font-family="Arial Black, Arial, Helvetica, sans-serif" font-weight="900" font-size="54" letter-spacing="20" fill="#ffffff">HABIB_</text>
+
+  <!-- rule -->
+  <line x1="40" y1="146" x2="840" y2="146" stroke="#3a3a3a" stroke-width="1"/>
+
+  <!-- subtitle -->
+  <text x="440" y="178" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="14" letter-spacing="6" fill="#b0b0b0">// SECURITY  ::  SYSTEMS  ::  NETWORKS</text>
+</svg>
